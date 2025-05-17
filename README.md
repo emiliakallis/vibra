@@ -39,10 +39,6 @@
 
 </div>
 
-## Project Overview
-
-Vibra is a full-stack mobile application that enables users to discover, share, and discuss music in real time. The platform features a React Native (Expo) frontend and a Django/Django REST Framework backend, allowing users to stream recommended tracks and chat with friends about music. Key functionalities include personalized “For You” music recommendations, real-time chat messaging with song sharing, and social features like user profiles and notifications. The project’s goal was to create an interactive music experience – from fetching similar songs via the Jamendo API to enabling live discussions – all within a seamless mobile app environment.
-
 ## Table of Contents
 
 - [Project Overview](#project-overview)
@@ -51,6 +47,10 @@ Vibra is a full-stack mobile application that enables users to discover, share, 
 - [Technologies & Tools](#technologies--tools)
 - [Project Links](#project-links)
 - [Outcome](#outcome)
+
+## Project Overview
+
+Vibra is a full-stack mobile application that enables users to discover, share, and discuss music in real time. The platform features a React Native (Expo) frontend and a Django/Django REST Framework backend, allowing users to stream recommended tracks and chat with friends about music. Key functionalities include personalized “For You” music recommendations, real-time chat messaging with song sharing, and social features like user profiles and notifications. The project’s goal was to create an interactive music experience – from fetching similar songs via the Jamendo API to enabling live discussions – all within a seamless mobile app environment.
 
 ## My Role on the Project
 
