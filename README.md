@@ -47,6 +47,7 @@
 - [Technologies & Tools](#technologies--tools)
 - [Project Links](#project-links)
 - [Outcome](#outcome)
+- [What I learned](#what-i-learned)
 
 ## Project Overview
 
@@ -108,3 +109,19 @@ Beyond coding, I played an active role in collaborative development. I frequentl
 ## Outcome
 
 By project’s end, I had made substantial contributions to a fully functioning application that blends a rich backend (recommendation engine, real-time services, robust API) with an intuitive frontend. This experience showcased my ability to work end-to-end on complex features: from database and server logic to the pixel-perfect mobile UI. It also highlights my strengths in problem-solving, adaptability, and teamwork – crucial qualities for a full-stack or backend-focused developer. I am proud that our team delivered an innovative platform like Vibra, and I’m excited to bring these skills to future projects.
+
+## What I Learned
+
+This project pushed me outside my comfort zone, I had never worked with Django or TypeScript before, and my experiences with Git and real-time systems were minimal. But I quickly got up to speed and contributed across the stack.
+
+Through the process, I discovered how naturally I pick up new tools and concepts. I learned that I thrive in hands-on, applied learning environments, and that I can become productive with unfamiliar technologies in a short amount of time.
+
+Key areas I gained experience in include:
+- Django & Django REST Framework for scalable backend APIs
+- React Native with TypeScript for mobile frontend development
+- Git workflows (branching, merging, resolving conflicts)
+- Real-time features using WebSockets, Django Channels, and Redis
+- Structuring full-stack applications and managing cross-functional integration
+
+This experience reinforced both my technical confidence and my ability to learn fast, which is something I now consider a core strength.
+
